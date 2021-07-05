@@ -5,3 +5,4 @@ A Yoga chatbot operating on Raspberry Pi that has the following features
 * Receives all messages from Signal
 * Process Responses through NLP and responds appropriately
 * Entire product, can be sold as a standalone Pi and simply plugged into any home
+* Refer the Component Diagram for details
