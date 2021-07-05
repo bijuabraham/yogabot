@@ -1,0 +1,210 @@
+Date: 04
+Week: 7
+Youtube: https://www.youtube.com/watch?v=XzoYoNXc7Vw
+1625403892042
+Envelope from: unknown source
+Timestamp: 1625319326282 (2021-07-03T13:35:26.282Z)
+Sent by unidentified/sealed sender
+Sender: “Suresh Pulikara” +16504838047 (device: 1)
+Server timestamps: received: 1625319327620 (2021-07-03T13:35:27.620Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Received a receipt message
+  When: 1625319326282 (2021-07-03T13:35:26.282Z)
+  Is read receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625320012945 (2021-07-03T13:46:52.945Z)
+Sent by unidentified/sealed sender
+Sender: “Shiju John” +14085075863 (device: 1)
+Server timestamps: received: 1625320014137 (2021-07-03T13:46:54.137Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Received a receipt message
+  When: 1625320012945 (2021-07-03T13:46:52.945Z)
+  Is read receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625320339687 (2021-07-03T13:52:19.687Z)
+Sent by unidentified/sealed sender
+Sender: “Biju A” +14082421928 (device: 2)
+Server timestamps: received: 1625320340070 (2021-07-03T13:52:20.070Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Message timestamp: 1625320339687 (2021-07-03T13:52:19.687Z)
+Profile key update, key length: 32
+
+Envelope from: unknown source
+Timestamp: 1625320340067 (2021-07-03T13:52:20.067Z)
+Sent by unidentified/sealed sender
+Sender: “Biju A” +14082421928 (device: 2)
+Server timestamps: received: 1625320340178 (2021-07-03T13:52:20.178Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Received a receipt message
+  When: 1625320340067 (2021-07-03T13:52:20.067Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625323161838 (2021-07-03T14:39:21.838Z)
+Sent by unidentified/sealed sender
+Sender: “Manoj U” +14086366846 (device: 1)
+Server timestamps: received: 1625323162244 (2021-07-03T14:39:22.244Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Received a receipt message
+  When: 1625323161838 (2021-07-03T14:39:21.838Z)
+  Is read receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625331376835 (2021-07-03T16:56:16.835Z)
+Sent by unidentified/sealed sender
+Sender: “Raghavan” +14082051035 (device: 1)
+Server timestamps: received: 1625331377471 (2021-07-03T16:56:17.471Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Received a receipt message
+  When: 1625331376835 (2021-07-03T16:56:16.835Z)
+  Is read receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625332366169 (2021-07-03T17:12:46.169Z)
+Sent by unidentified/sealed sender
+Sender: “Biju A” +14082421928 (device: 1)
+Server timestamps: received: 1625332366597 (2021-07-03T17:12:46.597Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Received a receipt message
+  When: 1625332366169 (2021-07-03T17:12:46.169Z)
+  Is read receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625335258081 (2021-07-03T18:00:58.081Z)
+Sent by unidentified/sealed sender
+Sender: “Anish Nair” +14083098580 (device: 2)
+Server timestamps: received: 1625335258219 (2021-07-03T18:00:58.219Z) delivered: 1625404105636 (2021-07-04T13:08:25.636Z)
+Received a receipt message
+  When: 1625335258081 (2021-07-03T18:00:58.081Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625335657898 (2021-07-03T18:07:37.898Z)
+Sent by unidentified/sealed sender
+Sender: “Roshin” +14083061965 (device: 1)
+Server timestamps: received: 1625335658346 (2021-07-03T18:07:38.346Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625335657898 (2021-07-03T18:07:37.898Z)
+  Is read receipt
+  Timestamps:
+  - 1625317384672 (2021-07-03T13:03:04.672Z)
+
+Envelope from: unknown source
+Timestamp: 1625403902543 (2021-07-04T13:05:02.543Z)
+Sent by unidentified/sealed sender
+Sender: “Anish Nair” +14083098580 (device: 1)
+Server timestamps: received: 1625403902852 (2021-07-04T13:05:02.852Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403902543 (2021-07-04T13:05:02.543Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403902666 (2021-07-04T13:05:02.666Z)
+Sent by unidentified/sealed sender
+Sender: “Biju A” +14082421928 (device: 1)
+Server timestamps: received: 1625403903040 (2021-07-04T13:05:03.040Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403902666 (2021-07-04T13:05:02.666Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403901613 (2021-07-04T13:05:01.613Z)
+Sent by unidentified/sealed sender
+Sender: “Suresh Pulikara” +16504838047 (device: 1)
+Server timestamps: received: 1625403903381 (2021-07-04T13:05:03.381Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403901613 (2021-07-04T13:05:01.613Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403903445 (2021-07-04T13:05:03.445Z)
+Sent by unidentified/sealed sender
+Sender: “Manoj U” +14086366846 (device: 1)
+Server timestamps: received: 1625403903765 (2021-07-04T13:05:03.765Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403903445 (2021-07-04T13:05:03.445Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403903509 (2021-07-04T13:05:03.509Z)
+Sent by unidentified/sealed sender
+Sender: “Raghavan” +14082051035 (device: 1)
+Server timestamps: received: 1625403903904 (2021-07-04T13:05:03.904Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403903509 (2021-07-04T13:05:03.509Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403903934 (2021-07-04T13:05:03.934Z)
+Sent by unidentified/sealed sender
+Sender: “Rashmi Mathew” +14083208892 (device: 1)
+Server timestamps: received: 1625403904340 (2021-07-04T13:05:04.340Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403903934 (2021-07-04T13:05:03.934Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403904503 (2021-07-04T13:05:04.503Z)
+Sent by unidentified/sealed sender
+Sender: “Vinitha Suresh” +16505207843 (device: 1)
+Server timestamps: received: 1625403904985 (2021-07-04T13:05:04.985Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403904503 (2021-07-04T13:05:04.503Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403904546 (2021-07-04T13:05:04.546Z)
+Sent by unidentified/sealed sender
+Sender: “Roshin” +14083061965 (device: 1)
+Server timestamps: received: 1625403905040 (2021-07-04T13:05:05.040Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403904546 (2021-07-04T13:05:04.546Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403905349 (2021-07-04T13:05:05.349Z)
+Sent by unidentified/sealed sender
+Sender: “Shiju John” +14085075863 (device: 1)
+Server timestamps: received: 1625403906416 (2021-07-04T13:05:06.416Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403905349 (2021-07-04T13:05:05.349Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
+Envelope from: unknown source
+Timestamp: 1625403915726 (2021-07-04T13:05:15.726Z)
+Sent by unidentified/sealed sender
+Sender: “Binu K” +14087225360 (device: 1)
+Server timestamps: received: 1625403916835 (2021-07-04T13:05:16.835Z) delivered: 1625404105637 (2021-07-04T13:08:25.637Z)
+Received a receipt message
+  When: 1625403915726 (2021-07-04T13:05:15.726Z)
+  Is delivery receipt
+  Timestamps:
+  - 1625403892042 (2021-07-04T13:04:52.042Z)
+
