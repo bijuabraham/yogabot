@@ -6,13 +6,13 @@ echo "Week: $w"
 if [ $w == 5 ]
   then
     echo "Happy Friday !"
-    /home/pi/signal/signal-cli/bin/signal-cli -u +14087824582 send -m "Happy Friday ! No Yoga today..." -g ZPqPhnTJE01qvVXZ/ijgFMZSf5NxYaKgQX+G0o7YLzw=
+    /home/pi/signal/signal-cli/bin/signal-cli -u +14087824582 send -m "Happy Friday ! No Yoga today..." -g 
 fi
 if [ $w != 5 ]
   then
     u=$(sed -n "$d"p /home/pi/signal/signal-cli/bin/yogalist.txt)
     echo "Youtube: $u"
-    #echo "/home/pi/signal/signal-cli/bin/signal-cli -u +14087824582 send -m "$u" -g ZPqPhnTJE01qvVXZ/ijgFMZSf5NxYaKgQX+G0o7YLzw="
-    /home/pi/signal/signal-cli/bin/signal-cli -u +14087824582 send -m "$u" -g ZPqPhnTJE01qvVXZ/ijgFMZSf5NxYaKgQX+G0o7YLzw=
+    #echo "/home/pi/signal/signal-cli/bin/signal-cli -u +14087824582 send -m "$u" -g 
+    /home/pi/signal/signal-cli/bin/signal-cli -u +14087824582 send -m "$u" -g 
 fi
 /home/pi/signal/signal-cli/bin/signal-cli -u +14087824582 receive
